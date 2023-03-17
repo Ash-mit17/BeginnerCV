@@ -1,1 +1,2 @@
-# CV_2
+# very basic version of my cv 
+## basic html css used
